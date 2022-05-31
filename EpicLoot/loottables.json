@@ -260,11 +260,16 @@
       "Loot": [
         { "Item": "ArmorIronLegs",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorIronChest", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "HelmetIron",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorRootLegs",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorRootChest", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "HelmetRoot",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "HelmetIron",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
+    },
+    {
+    "Name": "RootArmor",
+    "Loot" : [
+       { "Item": "ArmorRootLegs",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+       { "Item": "ArmorRootChest", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+       { "Item": "HelmetRoot",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+    ]
     },
     {
       "Name": "Tier3Shields",
@@ -284,6 +289,7 @@
       "Loot": [
         { "Item": "Tier3Weapons" },
         { "Item": "Tier3Armor"   },
+        { "Item": "RootArmor"    },
         { "Item": "Tier3Shields" },
         { "Item": "Tier3Tools"   }
       ]
@@ -307,11 +313,16 @@
         { "Item": "ArmorWolfLegs",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "ArmorWolfChest", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "HelmetDrake",    "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "ArmorFenringLegs", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "ArmorFenringChest", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "HelmetFenring", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "CapeWolf",       "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
+    },
+    {
+      "Name": "FenrisArmor",
+      "Loot": [
+        { "Item": "ArmorFenringLegs",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "ArmorFenringChest", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "HelmetFenring",     "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
+       ]
     },
     {
       "Name": "Tier4Shields",
@@ -325,6 +336,7 @@
       "Loot": [
         { "Item": "Tier4Weapons" },
         { "Item": "Tier4Armor"   },
+        {"Item": "FenrisArmor"   },
         { "Item": "Tier4Shields" }
       ]
     },
