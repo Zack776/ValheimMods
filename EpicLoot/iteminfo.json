@@ -18,7 +18,7 @@
     {
       "Type": "Knives",
       "Fallback": "Club",
-      "Items": [ "KnifeFlint", "KnifeCopper", "KnifeChitin", "KnifeBlackMetal" ]
+      "Items": [ "KnifeFlint", "KnifeCopper", "KnifeChitin", "KnifeSilver", "KnifeBlackMetal" ]
     },
     {
       "Type": "Clubs",
@@ -53,27 +53,27 @@
     {
       "Type": "RoundShields",
       "Fallback": "Club",
-      "Items": [ "ShieldWood", "ShieldBronzeBuckler", "ShieldBanded", "ShieldSilver", "ShieldBlackmetal" ]
+      "Items": [ "ShieldWood", "ShieldBronzeBuckler", "ShieldIronBuckler", "ShieldBanded", "ShieldSilver", "ShieldBlackmetal" ]
     },
     {
       "Type": "TowerShields",
       "Fallback": "Club",
-      "Items": [ "ShieldWoodTower", "ShieldIronTower", "ShieldSerpentscale", "ShieldBlackmetalTower", "ShieldBoneTower" ]
+      "Items": [ "ShieldWoodTower", "ShieldBoneTower", "ShieldIronTower", "ShieldSerpentscale", "ShieldBlackmetalTower" ]
     },
     {
       "Type": "ChestArmor",
       "Fallback": "",
-      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorIronChest", "ArmorWolfChest", "ArmorPaddedCuirass", "ArmorRootChest","ArmorFenringChest"]
+      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorRootChest", "ArmorIronChest", "ArmorWolfChest", "ArmorFenringChest", "ArmorPaddedCuirass" ]
     },
     {
       "Type": "LegsArmor",
       "Fallback": "",
-      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorIronLegs", "ArmorWolfLegs", "ArmorPaddedGreaves","ArmorRootLegs", "ArmorFenringLegs" ]
+      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorRootLegs", "ArmorIronLegs", "ArmorWolfLegs", "ArmorFenringLegs", "ArmorPaddedGreaves" ]
     },
     {
       "Type": "HeadArmor",
       "Fallback": "ArmorRagsChest",
-      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "HelmetIron", "HelmetDrake", "HelmetPadded", "HelmetRoot", "HelmetFenring" ]
+      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "HelmetRoot", "HelmetIron", "HelmetDrake", "HelmetFenring", "HelmetPadded" ]
     },
     {
       "Type": "ShouldersArmor",
