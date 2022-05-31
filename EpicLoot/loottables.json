@@ -134,8 +134,7 @@
       "Name": "Tier0Shields",
       "Loot": [
         { "Item": "ShieldWood",      "Rarity": [ 97, 2, 1, 0 ] },
-        { "Item": "ShieldWoodTower", "Rarity": [ 97, 2, 1, 0 ] },
-        { "Item": "ShieldBoneTower", "Rarity": [ 97, 2, 1, 0 ] }
+        { "Item": "ShieldWoodTower", "Rarity": [ 97, 2, 1, 0 ] }
       ]
     },
     {
