@@ -168,6 +168,13 @@
         { "Item": "CapeDeerHide",      "Rarity": [ 94, 3, 2, 1 ] }
       ]
     },
+    // shields
+    {
+      "Name": "Tier1Shields",
+      "Loot": [
+        { "Item": "ShieldBoneTower", "Rarity": [ 94, 3, 2, 1 ] }
+       ]
+    },
     {
       "Name": "Tier1Tools",
       "Loot": [
@@ -179,6 +186,7 @@
       "Loot": [
         { "Item": "Tier1Weapons" },
         { "Item": "Tier1Armor"   },
+        { "Item": "Tier1Shields"  },
         { "Item": "Tier1Tools"   }
       ]
     },
@@ -336,7 +344,7 @@
       "Loot": [
         { "Item": "Tier4Weapons" },
         { "Item": "Tier4Armor"   },
-        {"Item": "FenrisArmor"   },
+        { "Item": "FenrisArmor"  },
         { "Item": "Tier4Shields" }
       ]
     },
@@ -507,6 +515,7 @@
           "Loot": [
             { "Item": "Tier1Everything", "Weight": 5, "Rarity": [ 40, 53, 5, 2 ] },
             { "Item": "Tier0Shields",    "Weight": 5, "Rarity": [ 40, 53, 5, 2 ] },
+            { "Item": "Tier1Shields",    "Weight": 1, "Rarity": [ 40, 53, 5, 2 ] },
             { "Item": "TrollArmor",      "Weight": 1, "Rarity": [ 40, 53, 5, 2 ] }
           ]
         },
@@ -516,6 +525,7 @@
           "Loot": [
             { "Item": "Tier1Everything", "Weight": 3, "Rarity": [ 29, 59, 9, 3 ] },
             { "Item": "Tier0Shields",    "Weight": 3, "Rarity": [ 29, 59, 9, 3 ] },
+            { "Item": "Tier1Shields",    "Weight": 1, "Rarity": [ 29, 59, 9, 3 ] },
             { "Item": "TrollArmor",      "Weight": 1, "Rarity": [ 29, 59, 9, 3 ] }
           ]
         },
@@ -525,6 +535,7 @@
           "Loot": [
             { "Item": "Tier1Everything", "Weight": 1, "Rarity": [ 15, 65, 15, 5 ] },
             { "Item": "Tier0Shields",    "Weight": 1, "Rarity": [ 15, 65, 15, 5 ] },
+            { "Item": "Tier1Shields",    "Weight": 1, "Rarity": [ 15, 65, 15, 5 ] },
             { "Item": "TrollArmor",      "Weight": 1, "Rarity": [ 15, 65, 15, 5 ] }
           ]
         },
