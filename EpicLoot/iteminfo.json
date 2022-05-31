@@ -13,7 +13,7 @@
     {
       "Type": "TwoHandAxes",
       "Fallback": "AxeIron",
-      "Items": [ "Battleaxe" ]
+      "Items": [ "Battleaxe", "BattleaxeCrystal" ]
     },
     {
       "Type": "Knives",
@@ -58,22 +58,22 @@
     {
       "Type": "TowerShields",
       "Fallback": "Club",
-      "Items": [ "ShieldWoodTower", "ShieldIronTower", "ShieldSerpentscale", "ShieldBlackmetalTower" ]
+      "Items": [ "ShieldWoodTower", "ShieldIronTower", "ShieldSerpentscale", "ShieldBlackmetalTower", "ShieldBoneTower" ]
     },
     {
       "Type": "ChestArmor",
       "Fallback": "",
-      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorIronChest", "ArmorWolfChest", "ArmorPaddedCuirass" ]
+      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorIronChest", "ArmorWolfChest", "ArmorPaddedCuirass", "ArmorRootChest","ArmorFenringChest"]
     },
     {
       "Type": "LegsArmor",
       "Fallback": "",
-      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorIronLegs", "ArmorWolfLegs", "ArmorPaddedGreaves" ]
+      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorIronLegs", "ArmorWolfLegs", "ArmorPaddedGreaves","ArmorRootLegs", "ArmorFenringLegs" ]
     },
     {
       "Type": "HeadArmor",
       "Fallback": "ArmorRagsChest",
-      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "HelmetIron", "HelmetDrake", "HelmetPadded" ]
+      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "HelmetIron", "HelmetDrake", "HelmetPadded", "HelmetRoot", "HelmetFenring" ]
     },
     {
       "Type": "ShouldersArmor",
